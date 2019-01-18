@@ -4,7 +4,7 @@
 # What is Pretendo Network?
 Pretendo Network is a WIP replacement for all Nintendo Network services for the Nintendo 3DS family of systems and the Wii U. These include multiplayer, accounts, eShop, Miiverse, and more! This project will help preserve those aspects of the consoles in the event that the official services get taken down.
 
-You can find out GitHub organization at https://github.com/PretendoNetwork.
+You can find our GitHub organization at https://github.com/PretendoNetwork.
 
 # History
 As told by the project's creator, **RedDucks**, himself:
