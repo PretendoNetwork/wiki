@@ -9,6 +9,7 @@ From **Kinnay**'s documentation (https://github.com/Kinnay/NintendoClients/wiki/
 
 The NEX library is used for the majority of online-enabled titles. This brings about a problem though - as mentioned in **Kinnay**'s wiki:
 > Unfortunately, there are many different versions of the nex library which are not backwards compatible, and even game-specific patches.
+
 Its entirely possible that there are even update-specific patches for certain titles, but this has yet to be confirmed to **SuperMarioDaBom**.
 
 # Items of Interest
