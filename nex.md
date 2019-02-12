@@ -7,6 +7,10 @@ From **Kinnay**'s documentation (https://github.com/Kinnay/NintendoClients/wiki/
 >
 > NEX provides functions to connect and talk to game servers. Nintendo hasn't written it from scratch. It's based on Quazal Rendez-Vous, so some things like the PRUDP Protocol may be seen in other games that use Quazal.
 
+The NEX library is used for the majority of online-enabled titles. This brings about a problem though - as mentioned in **Kinnay**'s wiki:
+> Unfortunately, there are many different versions of the nex library which are not backwards compatible, and even game-specific patches.
+Its entirely possible that there are even update-specific patches for certain titles, but this has yet to be confirmed to **SuperMarioDaBom**.
+
 # Items of Interest
 In this section, you will find interesting tidbits that you may find useful to know if you're making and/or utilizing NEX and its libraries and protocols.
 **Notice:** Items contained here are observations made by the Pretendo team and various others. With that being said, its entirely possible that these observations are indeed false or at the very least not entirely true. So take what you see here with a grain of salt.
