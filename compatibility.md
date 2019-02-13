@@ -12,7 +12,7 @@ The account backend is mostly functional - the Wii U can create and delete accou
 ## Supported Titles
 ### Both
 #### Friends
-		The NEX library nex-go currently doesn't properly handle Kerberos Authentication, so this title is not yet supported at this time.
+The NEX library nex-go currently doesn't properly handle Kerberos Authentication, so this title is not yet supported at this time.
 		
 ### Wii U
 No titles currently functional at this time. Please see Friends above for more info.
