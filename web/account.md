@@ -5,7 +5,7 @@
 > Subdomain: account
 > *Note that subdomains are to be prepended to the main domain (for Nintendo, nintendo.net; for Pretendo, pretendo.cc)*
 
-This is the subdomain that handles accounts (NNID / PNID), whether that be creation, logins, deletions, etc. This is not to be confused with actual game logins, which are handled by NEX (https://wiki.pretendo.cc/NEX).
+This is the subdomain that handles accounts (NNID / PNID), whether that be creation, logins, deletions, etc. This is not to be confused with game logins, which are handled by NEX (https://wiki.pretendo.cc/NEX).
 
 ## Compatibility
 * [+] Account creation
@@ -13,5 +13,7 @@ This is the subdomain that handles accounts (NNID / PNID), whether that be creat
 ## Known Bugs
 * Account logins seem to be broken occasionally
 
+## Documentation
+* Region Ids (https://wiki.pretendo.cc/web/account/region_ids)
 ## Endpoint List
 * Coming soon.
