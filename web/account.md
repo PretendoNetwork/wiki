@@ -8,6 +8,12 @@
 This is the subdomain that handles accounts (NNID / PNID), whether that be creation, logins, deletions, etc. This is not to be confused with game logins, which are handled by NEX (https://wiki.pretendo.cc/NEX).
 
 ## Compatibility
+**Legend:**
+*[+] Full Support
+[-] Not Planned to be Supported
+[!] Partial Support
+[?] Supported, Largely Untested / Unconfirmed Functionality
+
 * [+] Account creation
 
 ## Known Bugs
