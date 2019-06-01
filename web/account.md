@@ -14,6 +14,6 @@ This is the subdomain that handles accounts (NNID / PNID), whether that be creat
 * Account logins seem to be broken occasionally
 
 ## Documentation
-* Region Ids (https://wiki.pretendo.cc/web/account/region_ids)
+* Region IDs (https://wiki.pretendo.cc/web/account/region_ids)
 ## Endpoint List
 * Coming soon.
