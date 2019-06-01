@@ -12,7 +12,7 @@ This is the subdomain that handles accounts (NNID / PNID), whether that be creat
 *[+] Full Support
 [-] Not Planned to be Supported
 [!] Partial Support
-[?] Supported, Largely Untested / Unconfirmed Functionality
+[?] Supported, Largely Untested / Unconfirmed Functionality*
 
 * [+] Account creation
 
