@@ -8,3 +8,4 @@ We are currently under construction. Please check back later!
 * Compatibility (https://wiki.pretendo.cc/compatibility)
 * Aspects of Nintendo Network
 	* NEX (https://wiki.pretendo.cc/nex)
+	* Web (https://wiki.pretendo.cc/web)
