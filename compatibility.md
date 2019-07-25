@@ -5,7 +5,7 @@
 Here, you can find information about what titles / features Pretendo is currently able to support, and what isn't supported at this time.
 
 # Web-Based Aspects
-For information on web-based aspects of Pretendo Network / Nintendo Network, see the web section (https://wiki.pretendo.cc/web)
+For information on web-based aspects of Pretendo Network / Nintendo Network, see the web section (https://wiki.pretendo.network/web)
 
 # Network Backend Aspects (Games and Apps)
 The network backend (meaning the stuff that isn't web-based, primarily games and apps) is still very much wip, and is the biggest part of Pretendo Network / Nintendo Network.
