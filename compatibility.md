@@ -5,12 +5,17 @@
 Here, you can find information about what titles / features Pretendo is currently able to support, and what isn't supported at this time.
 
 # Web-Based Aspects
-## Account System
-The account backend is mostly functional - the Wii U can create and delete accounts, while the 3ds can only create. Certain items such as changing account settings haven't been implemented. Since the account creation system is moving to the website, some of these features may not be available on console.
+For information on web-based aspects of Pretendo Network / Nintendo Network, see the web section (https://wiki.pretendo.cc/web)
 
-# Network Backend Aspects
+# Network Backend Aspects (Games and Apps)
+The network backend (meaning the stuff that isn't web-based, primarily games and apps) is still very much wip, and is the biggest part of Pretendo Network / Nintendo Network.
 ## Supported Titles
-### Both
+**Legend:**
+*[+] Full Support
+[-] Not Planned to be Supported
+[!] Partial Support
+[?] Supported, Largely Untested / Unconfirmed Functionality*
+### Both Wii U and 3DS
 The NEX library nex-go currently doesn't properly handle Kerberos Authentication, so no titles are supported at this time.
 		
 ### Wii U
