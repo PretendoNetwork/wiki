@@ -2,8 +2,13 @@
 <!-- SUBTITLE: Documentation on the Region IDs Used for Accounts -->
 
 # Region IDs
-When you create an account, the system asks for a region. For example, in the US, you're asked for the state you live in. This is a list of all of the currently known IDs and their respective regions.
+When creating an account with account.nintendo.net, a region ID is sent to the account server. These are decimal representations; once converted to hex, they form 4 bytes - one for the country, one for region, and two currently set to NULL; for example, California:
 
+`822542336`  = `0x31070000`
+
+`0x31` = 49, `0x07` = 07.
+
+The country codes have been known since the Wii, and the regions for 3DS/WiiU are also publicly available (and also stored in the manifest files on-device).
 ## France
 * Rhône Alpes: 1293352960
 ## Netherlands
