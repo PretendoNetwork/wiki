@@ -12,6 +12,8 @@ The NEX library is used for the majority of online-enabled titles. This brings a
 
 Its entirely possible that there are even update-specific patches for certain titles, but this has yet to be confirmed to **SuperMarioDaBom**.
 
+**Stary2001** is developing a NEX dissector that can parse PRUDPv0/1 (for WiiU/3DS) for Wireshark (https://github.com/Stary2001/nex-dissector)
+
 # Items of Interest
 In this section, you will find interesting tidbits that you may find useful to know if you're making and/or utilizing NEX and its libraries and protocols.
 **Notice:** Items contained here are observations made by the Pretendo team and various others. With that being said, its entirely possible that these observations are indeed false or at the very least not entirely true. So take what you see here with a grain of salt.
